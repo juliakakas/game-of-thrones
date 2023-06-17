@@ -269,7 +269,7 @@ Az osztályhierarchia legyen az alábbi:
 
 Ha kell, rendezd az importokat!
 
-## Money buys a man silence for a time, a bolt in the heart buys it forever.
+## Money buys a man's silence for a time, a bolt in the heart buys it forever.
 Implementáljuk karakterek párbaját!
 Vedd fel az alábbi metódust a `Character` osztályba!
 ```
