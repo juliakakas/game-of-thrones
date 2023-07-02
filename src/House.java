@@ -10,7 +10,7 @@ public enum House {
     private String englishMark;
     private String magyarJelige;
 
-    private House(String englishMark, String magyarJelige){
+    House(String englishMark, String magyarJelige){
         this.englishMark = englishMark;
         this.magyarJelige = magyarJelige;
     }

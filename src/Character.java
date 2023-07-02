@@ -2,6 +2,7 @@ public class Character {
     private String name;
     private final String birthPlace;
 
+
     private Gender gender;
 
     public Character(String name, String birthPlace, Gender gender){
