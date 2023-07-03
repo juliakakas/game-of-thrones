@@ -5,6 +5,8 @@ public class GameOfThrones {
         person.setGender(Gender.FEMALE);
         System.out.println(person.getGender());
 
-
+        Noble nobel = new Noble("Joeffry","??", Gender.EUNUCH,House.LANNISTER,30000);
+        //nobel.setHouses(House.BARATHEON);
+        System.out.println(nobel);
     }
 }
